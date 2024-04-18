@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2596262c98bb97e44b1dc91d73f5ff23, type: 3}
+  m_Name: Heo Item
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemtype: 0
+  itemImage: {fileID: 1178711596, guid: ffeb994579546674ebf9ada4117148dc, type: 3}
+  itemPrefab: {fileID: 6384285159076339250, guid: 95ea872795835804fbab062ddc28772d, type: 3}
+  WeaponType: 
